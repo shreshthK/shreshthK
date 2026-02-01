@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+I'm+Shreshth+%F0%9F%91%8B;Senior+Software+Engineer;TypeScript+Enthusiast;Building+cool+stuff+in+Texas&center=true&size=30&color=58A6FF&width=600&height=80">
 </h1>
@@ -36,13 +35,23 @@ Here are some ideas to get you started:
 ```typescript
 const shreshth = {
     location: "Texas 🤠",
-    role: "Senior Software Engineer",
-    code: ["TypeScript", "JavaScript", "HTML", "CSS"],
-    tools: ["Hono", "WebSockets", "Polymer"],
-    currentlyBuilding: "Cool side projects",
-    funFact: "I built a URL shortener and a multiplayer tic-tac-toe over WebSocket!"
+    role: "Senior Software Engineer @ Wabtec Corporation",
+    experience: "8+ years building enterprise-scale applications",
+    domains: ["Healthcare", "Supply Chain"],
+    passion: "Crafting robust, scalable solutions",
+    afterHours: "Raiding in a Top 30 US WoW guild ⚔️"
 };
 ```
+
+<div align="center">
+
+🏢 Building enterprise-scale apps at **Wabtec Corporation**
+
+🩺 Healthcare & 📦 Supply Chain domains
+
+🎮 When not coding, you'll find me raiding in **World of Warcraft** with a **Top 30 US guild**
+
+</div>
 
 ---
 
