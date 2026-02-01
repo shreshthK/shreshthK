@@ -13,12 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+I'm+Shreshth+%F0%9F%91%8B;Senior+Software+Engineer;TypeScript+Enthusiast;Building+cool+stuff+in+Texas&center=true&size=30&color=58A6FF&width=600&height=80">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+I'm+Shreshth+%F0%9F%91%8B;TypeScript+Enthusiast;Building+cool+stuff+in+Texas&center=true&size=30&color=58A6FF&width=600&height=80">
 </h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreshthK&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 <div align="center">
 
@@ -102,7 +98,7 @@ const shreshth = {
 
 ---
 
-## 📌 Featured Projects
+## 🎯 Side Projects & Experiments
 
 <div align="center">
 
