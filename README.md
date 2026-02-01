@@ -72,12 +72,16 @@ const shreshth = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreshthK&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
+> ⚠️ *If stats aren't loading, it's due to GitHub API rate limits. They'll appear after some time.*
+
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreshthK&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
+
+🦈 **Pull Shark x2** • 🤠 **YOLO**
+
 </div>
 
 ---
@@ -86,20 +90,22 @@ const shreshth = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shreshthK&repo=honoUrl&theme=tokyonight)](https://github.com/shreshthK/honoUrl)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shreshthK&repo=tic-tac&theme=tokyonight)](https://github.com/shreshthK/tic-tac)
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🔗 honoUrl](https://github.com/shreshthK/honoUrl) | URL shortener built on Hono | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| [🎮 tic-tac](https://github.com/shreshthK/tic-tac) | Multiplayer Tic-Tac-Toe over WebSocket | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| [🖥️ honoUI](https://github.com/shreshthK/honoUI) | UI for URL shortener | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| [💼 portfolio](https://github.com/shreshthK/portfolio) | Personal portfolio website | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Activity Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreshthK/shreshthK/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shreshthK/shreshthK/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shreshthK/shreshthK/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreshthK&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
 
 ---
 
@@ -116,4 +122,5 @@ const shreshth = {
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
+
 
