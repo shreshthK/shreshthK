@@ -51,6 +51,25 @@ const shreshth = {
 
 ---
 
+## 🎯 Side Projects & Experiments
+
+<div align="center">
+
+### Featured Builds
+
+| Project | What it explores | Stack |
+|---------|------------------|-------|
+| [🏁 shreshth-rally-tracker](https://github.com/shreshthK/shreshth-rally-tracker) | Rally tracker project focused on event/progress tracking workflows | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| [🧾 todo-tui](https://github.com/shreshthK/todo-tui) | Terminal-first todo manager built around a text UI workflow | ![TUI](https://img.shields.io/badge/-TUI-000000?style=flat&logo=gnubash&logoColor=white) |
+| [🔗 honoUrl](https://github.com/shreshthK/honoUrl) | URL shortener API with a lightweight backend architecture | ![Hono](https://img.shields.io/badge/-Hono-E36002?style=flat&logo=hono&logoColor=white) |
+| [🖥️ honoUI](https://github.com/shreshthK/honoUI) | Companion UI for managing short links and redirects | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| [🎮 tic-tac](https://github.com/shreshthK/tic-tac) | Real-time multiplayer game communication over WebSockets | ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat&logo=socketdotio&logoColor=white) |
+| [💼 portfolio](https://github.com/shreshthK/portfolio) | Personal site experiments with branding, layout, and animation | ![Frontend](https://img.shields.io/badge/-Frontend-61DAFB?style=flat&logo=react&logoColor=black) |
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -89,22 +108,6 @@ const shreshth = {
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![LLM Integration](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-
----
-
-## 🎯 Side Projects & Experiments
-
-<div align="center">
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [🔗 honoUrl](https://github.com/shreshthK/honoUrl) | URL shortener built on Hono | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-| [🎮 tic-tac](https://github.com/shreshthK/tic-tac) | Multiplayer Tic-Tac-Toe over WebSocket | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-| [🖥️ honoUI](https://github.com/shreshthK/honoUI) | UI for URL shortener | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-| [💼 portfolio](https://github.com/shreshthK/portfolio) | Personal portfolio website | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-
-</div>
-
 ---
 
 ## 📈 Activity Graph
@@ -132,5 +135,3 @@ const shreshth = {
 </picture>
 
 </div>
-
-
